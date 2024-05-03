@@ -1,0 +1,15 @@
+{
+  "name": "mr-biggs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bigs.js",
+  "scripts": {
+    "sass": "sass -w css/big.scss css/big.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.76.0"
+  }
+}
